@@ -1,6 +1,6 @@
 {
-    "name": "Better.Loop.Runtime",
-    "rootNamespace": "Better.Loop.Runtime",
+    "name": "Better.Scheduler.Runtime",
+    "rootNamespace": "Better.Scheduler.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

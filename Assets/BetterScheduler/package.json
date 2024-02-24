@@ -1,6 +1,6 @@
 {
-  "name": "com.tdw.better.loop",
-  "displayName": "Better Loop",
+  "name": "com.tdw.better.scheduler",
+  "displayName": "Better Scheduler",
   "version": "0.0.1",
   "unity": "2021.3",
   "description": " ",
@@ -11,15 +11,15 @@
     "name": "Better Plugins",
     "url": "https://github.com/techno-dwarf-works"
   },
-  "changelogUrl": "https://github.com/techno-dwarf-works/better-loop",
-  "documentationUrl": "https://github.com/techno-dwarf-works/better-loop/tree/main#readme",
+  "changelogUrl": "https://github.com/techno-dwarf-works/better-scheduler",
+  "documentationUrl": "https://github.com/techno-dwarf-works/better-scheduler/tree/main#readme",
   "license": "MIT",
-  "licensesUrl":"https://github.com/techno-dwarf-works/better-loop/blob/main/LICENSE",
+  "licensesUrl":"https://github.com/techno-dwarf-works/better-scheduler/blob/main/LICENSE",
   "keywords": [
-    "player loop",
-    "update",
     "loop",
-    "scheduling"
+    "schedule",
+    "scheduling",
+    "update"
   ],
   "samples": [
     {
